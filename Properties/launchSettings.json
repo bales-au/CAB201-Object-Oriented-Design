@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "CAB201 Object Oriented Design and Implementation (v5)": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
